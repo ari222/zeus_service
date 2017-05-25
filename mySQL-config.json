@@ -1,7 +1,7 @@
 {
   "host": "devopsrdsd.ct6uckuge2zz.us-east-1.rds.amazonaws.com",
   "user": "zeususer",
-  "password": "'D!Z@us!98'",
+  "password": "D!Z@us!98",
   "database": "zeus",
   "multipleStatements" : "true"
 }
