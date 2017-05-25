@@ -220,7 +220,7 @@ const pool = mysql.createPool(mySqlConfig);
 // });
 
 //   ********* SHOULD BE UNCOMMENTED TO RUN LOCALLY  *********
-app.listen(8080, () => {
-  console.log('listening ...');
-});
+// app.listen(8080, () => {
+//   console.log('listening ...');
+// });
 module.exports = app;
