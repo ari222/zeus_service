@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "lambda-service-account-apigtw",
+    "name": "wfs-tender-service",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "dtauukgi4j"
+  }
+}
