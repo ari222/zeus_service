@@ -1,7 +1,7 @@
 {
-  "host": "mysqlpoc.cecuzcruuaiz.us-east-1.rds.amazonaws.com",
-  "user": "AKendall@wfscorp.com",
-  "password": "Test!23",
-  "database": "lambda",
+  "host": "devopsrdsd.ct6uckuge2zz.us-east-1.rds.amazonaws.com",
+  "user": "zeususer",
+  "password": "'D!Z@us!98'",
+  "database": "zeus",
   "multipleStatements" : "true"
 }
