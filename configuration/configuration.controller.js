@@ -1,4 +1,4 @@
-const mySQLPool = require("../database-manager");
+const mySQLPool = require("../database.manager");
 
 module.exports = {
     commitConfiguration: function (req, res) {
