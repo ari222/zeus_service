@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 // support encoded bodies
 app.use(bodyParser.urlencoded({ extended: true }));
 //plugin router into the pipeline
-app.use('/zeus',routes);
+app.use(routes);
 
 //   ********* SHOULD BE UNCOMMENTED TO RUN LOCALLY  *********
 // app.listen(8080, () => {
