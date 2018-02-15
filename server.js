@@ -16,7 +16,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(routes);
 
 //   ********* SHOULD BE UNCOMMENTED TO RUN LOCALLY  *********
-// app.listen(8080, () => {
-//   console.log('listening ...');
-// });
+ app.listen(8080, () => {
+   console.log('listening ...');
+ });
 module.exports = app;
